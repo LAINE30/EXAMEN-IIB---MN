@@ -1,1 +1,1 @@
-# EXAMEN-IIB---MN
+Código base para el examen de Métodos Numéricos 2024-B.
